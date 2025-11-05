@@ -1,0 +1,20 @@
+# robots.txt for www.ochs-food.com
+# This file controls how search engines crawl and index the site.
+
+User-agent: *
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
+Disallow: /static/
+Disallow: /server/
+Disallow: /tmp/
+Allow: /
+
+# Crawl-delay can be set if your server needs to limit crawler requests
+# Crawl-delay: 10
+
+# Sitemap location for SEO
+Sitemap: https://www.ochs-food.com/sitemap.xml
+
+# Optional: Preferred host (for sites supporting both non-www and www)
+Host: www.ochs-food.com
