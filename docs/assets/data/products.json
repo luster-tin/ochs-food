@@ -4,6 +4,7 @@
     "name": "국산 포기김치",
     "description": "특제 육수를 사용하여 쌀밥 위에 얹어 먹기만 해도 맛있는",
     "thumbnail": "assets/images/products/item2.jpeg",
+    "link": "https://smartstore.naver.com/hyangsukimchi/products/8472244169",
     "options": [
       {
         "label": "5kg",
@@ -20,6 +21,7 @@
     "name": "국산 겉절이",
     "description": "특제 육수의 감칠맛과 신선한 배추의 아삭함이 살아있는",
     "thumbnail": "assets/images/products/item3.jpeg",
+    "link": "https://smartstore.naver.com/hyangsukimchi/products/12863039810",
     "options": [
       {
         "label": "3kg",
@@ -36,6 +38,7 @@
     "name": "국산 총각김치",
     "description": "고창·서산·태안의 알타리를 사용하여 시원한 맛이 일품인",
     "thumbnail": "assets/images/products/item5.jpeg",
+    "link": "https://smartstore.naver.com/hyangsukimchi/products/12863023628",
     "options": [
       {
         "label": "3kg",
@@ -52,6 +55,7 @@
     "name": "국산 백김치",
     "description": "국산 배의 천연 단맛이 깔끔하고 일품인",
     "thumbnail": "assets/images/products/item9.jpg",
+    "link": "https://smartstore.naver.com/hyangsukimchi/products/12862994896",
     "options": [
       {
         "label": "3kg",
@@ -68,6 +72,7 @@
     "name": "국산 깍두기",
     "description": "강원도와 제주도의 무를 사용하여 익을수록 맛있는 깊은 맛!",
     "thumbnail": "assets/images/products/item10.jpg",
+    "link": "https://smartstore.naver.com/hyangsukimchi/products/12862976160",
     "options": [
       {
         "label": "3kg",
@@ -84,6 +89,7 @@
     "name": "국산 열무김치",
     "description": "일산·예산의 열무를 사용하여 아삭아삭 식감도 맛도 좋은",
     "thumbnail": "assets/images/products/item11.jpg",
+    "link": "https://smartstore.naver.com/hyangsukimchi/products/12862954912",
     "options": [
       {
         "label": "3kg",
